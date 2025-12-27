@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  background: #0f172a;
+  color: white;
+  margin: 0;
+  padding: 20px;
+}
+
+select, button {
+  padding: 10px;
+  margin: 5px;
+  background: #1e293b;
+  color: white;
+  border: 1px solid #334155;
+  border-radius: 5px;
+}
+
+.status-online { color: green; }
+.status-offline { color: red; }
